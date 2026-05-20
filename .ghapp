@@ -1,0 +1,10 @@
+{
+  "id": 133877739,
+  "created_at": "2026-05-20T01:06:03.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["apim", "glmmTMB"]
+}

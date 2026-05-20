@@ -1,4 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/robackerman/robackerman.r-universe.dev
 	branch = HEAD
+[submodule "apim"]
+	path = apim
+	url = https://github.com/RobAckerman/apim
+[submodule "glmmTMB"]
+	path = glmmTMB
+	url = https://github.com/RobAckerman/glmmTMB
+	subdir = glmmTMB

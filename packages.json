@@ -1,0 +1,11 @@
+[
+  {
+    "package": "apim",
+    "url": "https://github.com/RobAckerman/apim"
+  },
+  {
+    "package": "glmmTMB",
+    "url": "https://github.com/RobAckerman/glmmTMB",
+    "subdir": "glmmTMB"
+  }
+]
